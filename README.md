@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gustavoplr/gustavoplr/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/gustavoplr/gustavoplr/languages-output/languages.svg" height="150" alt="languages graph"  />
+ <img src="https://github-readme-stats.vercel.app/api?username=gustavoplr&show_icons=true&theme=dark" height="150" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoplr&layout=compact&theme=dark" height="150" alt="languages graph" />
 </div>
 
 ###
