@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:00F0FF,100:FF00E5&text=GUSTAVO%20PORTO&fontColor=FFFFFF&fontSize=52&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas&descAlignY=52&descSize=16&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:00F0FF,100:FF00E5&text=GUSTAVO%20PORTO&fontColor=FFFFFF&fontSize=52&fontAlignY=32&desc=Desenvolvedor%20Full%20Stack%20em%20forma%C3%A7%C3%A3o%20%7C%20Web%20%C2%B7%20Banco%20de%20Dados%20%C2%B7%20SaaS&descAlignY=52&descSize=16&animation=fadeIn"/>
 
 <!-- ─────────────  BOOT SEQUENCE  ───────────── -->
 
@@ -21,13 +21,14 @@
 └──────────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=00F0FF&center=true&vCenter=true&width=820&height=45&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Construindo+SaaS+multi-tenant+do+zero;React+%C2%B7+TypeScript+%C2%B7+PostgreSQL+%C2%B7+Supabase;286h+de+forma%C3%A7%C3%A3o+t%C3%A9cnica+por+conta+pr%C3%B3pria" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=00F0FF&center=true&vCenter=true&width=820&height=45&lines=Desenvolvedor+full+stack+em+forma%C3%A7%C3%A3o;Aprendendo+na+pr%C3%A1tica%2C+construindo+e+publicando;React+%C2%B7+TypeScript+%C2%B7+PostgreSQL+%C2%B7+Supabase;286h+de+estudo+por+conta+pr%C3%B3pria+e+contando" alt="Typing SVG" />
 
 <br/>
 
 <img src="https://img.shields.io/badge/OPEN_TO-EST%C3%81GIO%20%7C%20TRAINEE%20%7C%20JR-00F0FF?style=for-the-badge&labelColor=0D1117" />
 <img src="https://komarev.com/ghpvc/?username=gustavoplr&style=for-the-badge&color=FF00E5&label=VISITORS" />
 <img src="https://img.shields.io/badge/ENGLISH-C1%20ADVANCED-FF00E5?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/STATUS-EM%20APRENDIZADO%20CONT%C3%8DNUO-00F0FF?style=for-the-badge&labelColor=0D1117" />
 
 </div>
 
@@ -38,18 +39,21 @@
 ## `01` ▸ SOBRE MIM
 
 ```yaml
-nome:      Gustavo Porto Lacerda Rodrigues
-formacao:  Análise e Desenvolvimento de Sistemas · UVV
-periodo:   2º período · Fev/2026 → Jul/2028
-local:     Guarapari, ES · Brasil
-foco:      Desenvolvimento Web · Banco de Dados · SaaS
+nome:       Gustavo Porto Lacerda Rodrigues
+local:      Guarapari, ES · Brasil
+foco:       Desenvolvimento Web · Banco de Dados · SaaS
+nivel:      júnior, aprendendo todo dia
+aprendendo: TypeScript avançado · C# e .NET · testes automatizados
 ```
 
-Comecei a programar ainda no ensino médio, antes de entrar na faculdade, e não parei mais.
-Desde então já publiquei aplicações web completas em produção, com autenticação,
-banco de dados relacional, multi-tenancy e regras de negócio de verdade.
+Comecei a programar ainda no ensino médio e não parei mais. Desde então já publiquei
+aplicações web completas em produção, com autenticação, banco de dados relacional,
+multi-tenancy e regras de negócio de verdade.
 
-Gosto de pegar um problema real, modelar o banco, escrever o código e colocar no ar.
+Ainda estou no começo da caminhada e sei disso. Meu jeito de aprender é colocando a mão
+na massa: pego um problema real, modelo o banco, escrevo o código, publico e depois volto
+pra melhorar o que ficou ruim. Cada projeto novo me obriga a estudar uma coisa que eu
+ainda não sabia, e é justamente essa parte que eu gosto.
 
 <br/>
 
@@ -186,7 +190,7 @@ gustavo@dev:~$ ./roadmap --status
   [ ✔ SHIPPED  ]  286h de formação técnica por iniciativa própria
   [ ✔ SHIPPED  ]  3 certificações Anthropic em IA aplicada
 
-  [ ▶ RUNNING  ]  Análise e Desenvolvimento de Sistemas · UVV · 2º período
+  [ ▶ RUNNING  ]  Estudo diário: fundamentos, boas práticas e documentação
   [ ▶ RUNNING  ]  Evolução do MechFlow: novos módulos e refinamento de UX
   [ ▶ RUNNING  ]  TypeScript avançado e arquitetura de front-end
 
@@ -195,7 +199,7 @@ gustavo@dev:~$ ./roadmap --status
   [ ▷ QUEUED   ]  Primeira experiência profissional em TI
 
 gustavo@dev:~$ status --now
-  → estudando e colocando projeto no ar ao mesmo tempo
+  → aprendendo e publicando ao mesmo tempo
   → aberto a estágio, trainee ou desenvolvedor júnior
 
 gustavo@dev:~$ _
@@ -298,4 +302,21 @@ gustavo@dev:~$ _
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
 </a>
 <a href="https://github.com/gustavoplr">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&label
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════  RODAPÉ  ═══════════════ -->
+
+<div align="center">
+
+```console
+> connection closed · valeu por passar por aqui
+```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:FF00E5,50:00F0FF,100:0D1117&reversal=true" />
+
+</div>
