@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:00F0FF,100:FF00E5&text=GUSTAVO%20PORTO&fontColor=FFFFFF&fontSize=52&fontAlignY=32&desc=Desenvolvedor%20Full%20Stack%20em%20forma%C3%A7%C3%A3o%20%7C%20Web%20%C2%B7%20Banco%20de%20Dados%20%C2%B7%20SaaS&descAlignY=52&descSize=16&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:00C2CC,100:FF00E5&text=GUSTAVO%20PORTO&fontColor=FFFFFF&fontSize=52&fontAlignY=32&desc=Desenvolvedor%20Full%20Stack%20em%20forma%C3%A7%C3%A3o%20%7C%20Web%20%C2%B7%20Banco%20de%20Dados%20%C2%B7%20SaaS&descAlignY=52&descSize=16&animation=fadeIn"/>
 
 <!-- ─────────────  BOOT SEQUENCE  ───────────── -->
 
@@ -21,14 +21,14 @@
 └──────────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=00F0FF&center=true&vCenter=true&width=820&height=45&lines=Desenvolvedor+full+stack+em+forma%C3%A7%C3%A3o;Aprendendo+na+pr%C3%A1tica%2C+construindo+e+publicando;React+%C2%B7+TypeScript+%C2%B7+PostgreSQL+%C2%B7+Supabase;286h+de+estudo+por+conta+pr%C3%B3pria+e+contando" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=00C2CC&center=true&vCenter=true&width=820&height=45&lines=Desenvolvedor+full+stack+em+forma%C3%A7%C3%A3o;Aprendendo+na+pr%C3%A1tica%2C+construindo+e+publicando;React+%C2%B7+TypeScript+%C2%B7+PostgreSQL+%C2%B7+Supabase;286h+de+estudo+por+conta+pr%C3%B3pria+e+contando" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/OPEN_TO-EST%C3%81GIO%20%7C%20TRAINEE%20%7C%20JR-00F0FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/OPEN_TO-EST%C3%81GIO%20%7C%20TRAINEE%20%7C%20JR-00C2CC?style=for-the-badge&labelColor=0D1117" />
 <img src="https://komarev.com/ghpvc/?username=gustavoplr&style=for-the-badge&color=FF00E5&label=VISITORS" />
 <img src="https://img.shields.io/badge/ENGLISH-C1%20ADVANCED-FF00E5?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/STATUS-EM%20APRENDIZADO%20CONT%C3%8DNUO-00F0FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/STATUS-EM%20APRENDIZADO%20CONT%C3%8DNUO-00C2CC?style=for-the-badge&labelColor=0D1117" />
 
 </div>
 
@@ -213,16 +213,16 @@ gustavo@dev:~$ _
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavoplr&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF00E5&text_color=FFFFFF&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoplr&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavoplr&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C2CC&icon_color=FF00E5&text_color=FFFFFF&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoplr&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C2CC&text_color=FFFFFF&langs_count=8" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=gustavoplr&theme=radical&hide_border=true&background=0D1117&stroke=00F0FF&ring=FF00E5&fire=FF00E5&currStreakLabel=00F0FF" />
+<img src="https://streak-stats.demolab.com?user=gustavoplr&theme=radical&hide_border=true&background=0D1117&stroke=00C2CC&ring=FF00E5&fire=FF00E5&currStreakLabel=00C2CC" />
 
 <br/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=gustavoplr&bg_color=0D1117&color=00F0FF&line=FF00E5&point=FFFFFF&area=true&hide_border=true" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=gustavoplr&bg_color=0D1117&color=00C2CC&line=FF00E5&point=FFFFFF&area=true&hide_border=true" />
 
 </div>
 
@@ -234,14 +234,14 @@ gustavo@dev:~$ _
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/APLICA%C3%87%C3%95ES_PUBLICADAS-04-00F0FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/APLICA%C3%87%C3%95ES_PUBLICADAS-04-00C2CC?style=for-the-badge&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/HORAS_DE_CURSOS-286-FF00E5?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/CERTIFICA%C3%87%C3%95ES-03-00F0FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/CERTIFICA%C3%87%C3%95ES-03-00C2CC?style=for-the-badge&labelColor=0D1117" />
 
 <br/>
 
 <img src="https://img.shields.io/badge/SAAS_MULTI--TENANT-EM_PRODU%C3%87%C3%83O-FF00E5?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/POSTGRESQL-RLS_%2B_RPC-00F0FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/POSTGRESQL-RLS_%2B_RPC-00C2CC?style=for-the-badge&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/INGL%C3%8AS-C1-FF00E5?style=for-the-badge&labelColor=0D1117" />
 
 </div>
@@ -317,6 +317,6 @@ gustavo@dev:~$ _
 > connection closed · valeu por passar por aqui
 ```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:FF00E5,50:00F0FF,100:0D1117&reversal=true" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:FF00E5,50:00C2CC,100:0D1117&reversal=true" />
 
 </div>
