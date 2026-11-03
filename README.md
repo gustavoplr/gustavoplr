@@ -42,8 +42,7 @@
 nome:       Gustavo Porto Lacerda Rodrigues
 local:      Guarapari, ES · Brasil
 foco:       Desenvolvimento Web · Banco de Dados · SaaS
-nivel:      júnior, aprendendo todo dia
-aprendendo: TypeScript avançado · C# e .NET · testes automatizados
+nivel:      júnior
 ```
 
 Comecei a programar ainda no ensino médio e não parei mais. Desde então já publiquei
