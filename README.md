@@ -222,7 +222,7 @@ gustavo@dev:~$ _
 
 <img src="https://img.shields.io/badge/APLICA%C3%87%C3%95ES_PUBLICADAS-04-00C2CC?style=for-the-badge&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/HORAS_DE_CURSOS-286-FF00E5?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/CERTIFICA%C3%87%C3%95ES-03-00C2CC?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/CERTIFICA%C3%87%C3%95ES-53-00C2CC?style=for-the-badge&labelColor=0D1117" />
 
 <br/>
 
