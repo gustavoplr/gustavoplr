@@ -193,9 +193,9 @@ gustavo@dev:~$ ./roadmap --status
   [ ▶ RUNNING  ]  Evolução do MechFlow: novos módulos e refinamento de UX
   [ ▶ RUNNING  ]  TypeScript avançado e arquitetura de front-end
 
-  [ ▷ QUEUED   ]  C# e .NET
+  [ ▷ QUEUED   ]  Desenvolver a minha parte de Business e Product
   [ ▷ QUEUED   ]  Testes automatizados e pipelines de CI/CD
-  [ ▷ QUEUED   ]  Primeira experiência profissional em TI
+  [ ▷ QUEUED   ]  Primeira experiência profissional nessa área
 
 gustavo@dev:~$ status --now
   → aprendendo e publicando ao mesmo tempo
