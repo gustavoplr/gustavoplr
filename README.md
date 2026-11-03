@@ -147,19 +147,6 @@ ordens de serviço, estoque e controle financeiro.
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Landing Page Pessoal
-`Front-end · Mobile-first`
-
-Site pessoal responsivo, construído do zero e publicado em produção,
-aplicando mobile-first e versionamento de código.
-
-`HTML5` `CSS3` `Flexbox` `Vercel`
-
-**[▸ landing-page-pessoal-lemon.vercel.app](https://landing-page-pessoal-lemon.vercel.app)**
-
-</td>
-<td width="50%" valign="top">
-
 ### 📚 PrepWise Landing
 `Front-end · Projeto para terceiro`
 
