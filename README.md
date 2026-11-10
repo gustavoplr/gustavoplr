@@ -186,21 +186,6 @@ A landing page developed for a third-party project, focused on semantic HTML, vi
 
 ## `05` ▸ CURRENT PROJECTS & RESEARCH
 
-### 🤖 AI Company
-`AI Agents · Autonomous Systems`
-
-An ongoing personal project exploring the architecture of an AI-powered virtual company, with specialized agents, collaborative workflows and task orchestration.
-
-- Specialized AI agent roles and responsibilities
-- Autonomous task coordination and delegation
-- Shared skills, tools and knowledge
-- Human interaction and supervision
-- Integration of specialized AI workflows
-
-`AI Agents` `Claude Code` `Automation` `Software Architecture`
-
-**▸ In Development**
-
 ### 🛡️ Sentinel Security
 `Cybersecurity · Application Security`
 
